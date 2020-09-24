@@ -2,9 +2,9 @@
 So, This is just a tester. Maybe, i want to say that, you can create this with simple step.
 
 <h3> Member of this team </h3>
-Leader : Aotsuki Amekiri
-Staff : Rainfog
-        Zhafran Bahij
+Leader : Aotsuki Amekiri <br>
+Staff : Rainfog <br>
+        Zhafran Bahij <br>
 
 
 <h3> Not a work </h3>
