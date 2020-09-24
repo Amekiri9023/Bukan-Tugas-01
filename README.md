@@ -8,4 +8,6 @@ Staff : Rainfog <br>
 
 
 <h3> Not a work </h3>
-https://github.com/Amekiri9023/Bukan-Tugas-01/blob/master/Well%20or%20Well.docx
+https://github.com/Amekiri9023/Bukan-Tugas-01/blob/master/Well%20or%20Well.docx (Link for document) <br>
+https://github.com/Amekiri9023/Bukan-Tugas-01/blob/master/Haruya%20Nasuki.jpg (Link for design) <br>
+https://github.com/Amekiri9023/Bukan-Tugas-01/blob/master/Delivery.gvdesign (Link for well i dunno) <br>
